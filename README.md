@@ -17,6 +17,12 @@ Cool stuffs in python
 			<li><a href="https://github.com/soum-sr/Python/blob/master/Mathematics/Python_STAT.ipynb">Statistics</a></li>
 		</ul>
 	</li>
+	<li><a href="https://github.com/soum-sr/Python/tree/master/WebScraping">WebScraping</a>
+		<ul>
+			<li><a href="https://github.com/soum-sr/Python/blob/master/WebScraping/Collect%20Movie%20Stuff.ipynb">Collect Movie Stuffs</a></li>
+		</ul>
+	</li>
+
 
 	
 
